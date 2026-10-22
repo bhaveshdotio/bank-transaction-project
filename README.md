@@ -310,4 +310,3 @@ Possible future improvements include:
 
 ---
 
-## 👨‍💻 Author
